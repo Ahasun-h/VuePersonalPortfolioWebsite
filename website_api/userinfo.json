@@ -1,0 +1,31 @@
+[
+  {
+    "user_info": {
+      "name": "Ahasun Habib",
+      "position": "frontend developer, QA-engineer",
+      "age": "23",
+      "contact_number": "8 (234) 456-33-33",
+      "email": "mail@mail.com",
+      "address": "Melbourne Victoria 3000 Australia",
+      "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png",
+      "background_image": "https://i.pinimg.com/originals/7f/99/cb/7f99cbd17100174bb26d9433e7ed1388.jpg",
+      "socialLinks": [
+        {
+          "name": "Facebook",
+          "url": "https://www.facebook.com/",
+          "icon": "fa fa-facebook-square"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com",
+          "icon": "fa fa-twitter-square"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://linkedin.com",
+          "icon": "fa fa-linkedin-square"
+        }
+      ]
+    }
+  }
+]
