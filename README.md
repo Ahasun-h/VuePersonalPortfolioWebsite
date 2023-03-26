@@ -1,3 +1,14 @@
+
+# Personal Portfolio Website
+A Vue Personal Portfolio Website is a website built using the Vue.js framework, which showcases an individual's skills, accomplishments, and experience. It typically includes a homepage with a brief introduction, sections for displaying past projects, skills, education, and contact information.
+
+Vue.js is a popular JavaScript framework that allows developers to create dynamic and responsive web applications with ease. Using Vue.js for a personal portfolio website provides several benefits, such as faster development time, a modern and engaging user interface, and a flexible and scalable architecture.
+
+Personal portfolio websites built using Vue.js can include interactive elements like animations, hover effects, and transitions to showcase the creator's work and make the website more engaging for visitors. These websites can be customized with various themes, layouts, and color schemes to match the creator's style and brand.
+
+Overall, a Vue Personal Portfolio Website is a great way for individuals to showcase their skills and experience to potential employers or clients in a modern, engaging, and professional manner.
+
+
 # Vue 3 + Vite
 
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
@@ -15,15 +26,11 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ```bash
 # install vue-cli
 $ npm install --global vue-cli
-# create a new project using the "webpack" template (Project name is: vue2-forms)
-$ vue init webpack vue2-forms
-# then follow default instruction suggested by vue-cli installer - always confirm (Yes)
-```
 
 ## 2. Project package implementation
 
 ```bash
-# download repository package and unpack (overwrite) /vue2-forms/  directory content
+# download repository package and unpack (overwrite) /Personal-Portfolio-Website/  directory content
 ```
 
 ## 3. Build Setup
